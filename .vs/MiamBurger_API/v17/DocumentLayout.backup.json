@@ -1,0 +1,384 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FourdrainJ\\source\\repos\\MiamBurger_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7CE0038-22D3-4A36-A1BA-0A62F77E51EB}|MiamBurger_API\\MiamBurger_API.csproj|c:\\users\\fourdrainj\\source\\repos\\miamburger_api\\miamburger_api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7CE0038-22D3-4A36-A1BA-0A62F77E51EB}|MiamBurger_API\\MiamBurger_API.csproj|solutionrelative:miamburger_api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7CE0038-22D3-4A36-A1BA-0A62F77E51EB}|MiamBurger_API\\MiamBurger_API.csproj|c:\\users\\fourdrainj\\source\\repos\\miamburger_api\\miamburger_api\\controllers\\burgercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7CE0038-22D3-4A36-A1BA-0A62F77E51EB}|MiamBurger_API\\MiamBurger_API.csproj|solutionrelative:miamburger_api\\controllers\\burgercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7CE0038-22D3-4A36-A1BA-0A62F77E51EB}|MiamBurger_API\\MiamBurger_API.csproj|c:\\users\\fourdrainj\\source\\repos\\miamburger_api\\miamburger_api\\context\\miamburgercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7CE0038-22D3-4A36-A1BA-0A62F77E51EB}|MiamBurger_API\\MiamBurger_API.csproj|solutionrelative:miamburger_api\\context\\miamburgercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7CE0038-22D3-4A36-A1BA-0A62F77E51EB}|MiamBurger_API\\MiamBurger_API.csproj|c:\\users\\fourdrainj\\source\\repos\\miamburger_api\\miamburger_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7CE0038-22D3-4A36-A1BA-0A62F77E51EB}|MiamBurger_API\\MiamBurger_API.csproj|solutionrelative:miamburger_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7CE0038-22D3-4A36-A1BA-0A62F77E51EB}|MiamBurger_API\\MiamBurger_API.csproj|c:\\users\\fourdrainj\\source\\repos\\miamburger_api\\miamburger_api\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7CE0038-22D3-4A36-A1BA-0A62F77E51EB}|MiamBurger_API\\MiamBurger_API.csproj|solutionrelative:miamburger_api\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7CE0038-22D3-4A36-A1BA-0A62F77E51EB}|MiamBurger_API\\MiamBurger_API.csproj|c:\\users\\fourdrainj\\source\\repos\\miamburger_api\\miamburger_api\\services\\burgerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7CE0038-22D3-4A36-A1BA-0A62F77E51EB}|MiamBurger_API\\MiamBurger_API.csproj|solutionrelative:miamburger_api\\services\\burgerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7CE0038-22D3-4A36-A1BA-0A62F77E51EB}|MiamBurger_API\\MiamBurger_API.csproj|c:\\users\\fourdrainj\\source\\repos\\miamburger_api\\miamburger_api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7CE0038-22D3-4A36-A1BA-0A62F77E51EB}|MiamBurger_API\\MiamBurger_API.csproj|solutionrelative:miamburger_api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7CE0038-22D3-4A36-A1BA-0A62F77E51EB}|MiamBurger_API\\MiamBurger_API.csproj|c:\\users\\fourdrainj\\source\\repos\\miamburger_api\\miamburger_api\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7CE0038-22D3-4A36-A1BA-0A62F77E51EB}|MiamBurger_API\\MiamBurger_API.csproj|solutionrelative:miamburger_api\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7CE0038-22D3-4A36-A1BA-0A62F77E51EB}|MiamBurger_API\\MiamBurger_API.csproj|c:\\users\\fourdrainj\\source\\repos\\miamburger_api\\miamburger_api\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7CE0038-22D3-4A36-A1BA-0A62F77E51EB}|MiamBurger_API\\MiamBurger_API.csproj|solutionrelative:miamburger_api\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7CE0038-22D3-4A36-A1BA-0A62F77E51EB}|MiamBurger_API\\MiamBurger_API.csproj|c:\\users\\fourdrainj\\source\\repos\\miamburger_api\\miamburger_api\\migrations\\20250620090002_updatedbwithuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7CE0038-22D3-4A36-A1BA-0A62F77E51EB}|MiamBurger_API\\MiamBurger_API.csproj|solutionrelative:miamburger_api\\migrations\\20250620090002_updatedbwithuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7CE0038-22D3-4A36-A1BA-0A62F77E51EB}|MiamBurger_API\\MiamBurger_API.csproj|c:\\users\\fourdrainj\\source\\repos\\miamburger_api\\miamburger_api\\migrations\\20250605095100_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7CE0038-22D3-4A36-A1BA-0A62F77E51EB}|MiamBurger_API\\MiamBurger_API.csproj|solutionrelative:miamburger_api\\migrations\\20250605095100_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7CE0038-22D3-4A36-A1BA-0A62F77E51EB}|MiamBurger_API\\MiamBurger_API.csproj|c:\\users\\fourdrainj\\source\\repos\\miamburger_api\\miamburger_api\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7CE0038-22D3-4A36-A1BA-0A62F77E51EB}|MiamBurger_API\\MiamBurger_API.csproj|solutionrelative:miamburger_api\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7CE0038-22D3-4A36-A1BA-0A62F77E51EB}|MiamBurger_API\\MiamBurger_API.csproj|c:\\users\\fourdrainj\\source\\repos\\miamburger_api\\miamburger_api\\model\\orderline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7CE0038-22D3-4A36-A1BA-0A62F77E51EB}|MiamBurger_API\\MiamBurger_API.csproj|solutionrelative:miamburger_api\\model\\orderline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7CE0038-22D3-4A36-A1BA-0A62F77E51EB}|MiamBurger_API\\MiamBurger_API.csproj|c:\\users\\fourdrainj\\source\\repos\\miamburger_api\\miamburger_api\\controllers\\orderlinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7CE0038-22D3-4A36-A1BA-0A62F77E51EB}|MiamBurger_API\\MiamBurger_API.csproj|solutionrelative:miamburger_api\\controllers\\orderlinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7CE0038-22D3-4A36-A1BA-0A62F77E51EB}|MiamBurger_API\\MiamBurger_API.csproj|c:\\users\\fourdrainj\\source\\repos\\miamburger_api\\miamburger_api\\model\\burger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7CE0038-22D3-4A36-A1BA-0A62F77E51EB}|MiamBurger_API\\MiamBurger_API.csproj|solutionrelative:miamburger_api\\model\\burger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7CE0038-22D3-4A36-A1BA-0A62F77E51EB}|MiamBurger_API\\MiamBurger_API.csproj|c:\\users\\fourdrainj\\source\\repos\\miamburger_api\\miamburger_api\\services\\orderlineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7CE0038-22D3-4A36-A1BA-0A62F77E51EB}|MiamBurger_API\\MiamBurger_API.csproj|solutionrelative:miamburger_api\\services\\orderlineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7CE0038-22D3-4A36-A1BA-0A62F77E51EB}|MiamBurger_API\\MiamBurger_API.csproj|c:\\users\\fourdrainj\\source\\repos\\miamburger_api\\miamburger_api\\miamburger_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E7CE0038-22D3-4A36-A1BA-0A62F77E51EB}|MiamBurger_API\\MiamBurger_API.csproj|solutionrelative:miamburger_api\\miamburger_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7CE0038-22D3-4A36-A1BA-0A62F77E51EB}|MiamBurger_API\\MiamBurger_API.csproj|c:\\users\\fourdrainj\\source\\repos\\miamburger_api\\miamburger_api\\migrations\\miamburgercontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7CE0038-22D3-4A36-A1BA-0A62F77E51EB}|MiamBurger_API\\MiamBurger_API.csproj|solutionrelative:miamburger_api\\migrations\\miamburgercontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7CE0038-22D3-4A36-A1BA-0A62F77E51EB}|MiamBurger_API\\MiamBurger_API.csproj|c:\\users\\fourdrainj\\source\\repos\\miamburger_api\\miamburger_api\\miamburger_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{E7CE0038-22D3-4A36-A1BA-0A62F77E51EB}|MiamBurger_API\\MiamBurger_API.csproj|solutionrelative:miamburger_api\\miamburger_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7CE0038-22D3-4A36-A1BA-0A62F77E51EB}|MiamBurger_API\\MiamBurger_API.csproj|c:\\users\\fourdrainj\\source\\repos\\miamburger_api\\miamburger_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E7CE0038-22D3-4A36-A1BA-0A62F77E51EB}|MiamBurger_API\\MiamBurger_API.csproj|solutionrelative:miamburger_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7CE0038-22D3-4A36-A1BA-0A62F77E51EB}|MiamBurger_API\\MiamBurger_API.csproj|c:\\users\\fourdrainj\\source\\repos\\miamburger_api\\miamburger_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E7CE0038-22D3-4A36-A1BA-0A62F77E51EB}|MiamBurger_API\\MiamBurger_API.csproj|solutionrelative:miamburger_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\FourdrainJ\\source\\repos\\MiamBurger_API\\MiamBurger_API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "MiamBurger_API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\FourdrainJ\\source\\repos\\MiamBurger_API\\MiamBurger_API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "MiamBurger_API\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T09:32:50.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\FourdrainJ\\source\\repos\\MiamBurger_API\\MiamBurger_API\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "MiamBurger_API\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\FourdrainJ\\source\\repos\\MiamBurger_API\\MiamBurger_API\\Services\\UserService.cs",
+              "RelativeToolTip": "MiamBurger_API\\Services\\UserService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T09:06:33.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MiamBurgerContext.cs",
+              "DocumentMoniker": "C:\\Users\\FourdrainJ\\source\\repos\\MiamBurger_API\\MiamBurger_API\\Context\\MiamBurgerContext.cs",
+              "RelativeDocumentMoniker": "MiamBurger_API\\Context\\MiamBurgerContext.cs",
+              "ToolTip": "C:\\Users\\FourdrainJ\\source\\repos\\MiamBurger_API\\MiamBurger_API\\Context\\MiamBurgerContext.cs",
+              "RelativeToolTip": "MiamBurger_API\\Context\\MiamBurgerContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T09:16:06.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BurgerController.cs",
+              "DocumentMoniker": "C:\\Users\\FourdrainJ\\source\\repos\\MiamBurger_API\\MiamBurger_API\\Controllers\\BurgerController.cs",
+              "RelativeDocumentMoniker": "MiamBurger_API\\Controllers\\BurgerController.cs",
+              "ToolTip": "C:\\Users\\FourdrainJ\\source\\repos\\MiamBurger_API\\MiamBurger_API\\Controllers\\BurgerController.cs",
+              "RelativeToolTip": "MiamBurger_API\\Controllers\\BurgerController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAgwFoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T07:11:25.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\FourdrainJ\\source\\repos\\MiamBurger_API\\MiamBurger_API\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "MiamBurger_API\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\FourdrainJ\\source\\repos\\MiamBurger_API\\MiamBurger_API\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "MiamBurger_API\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wCsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T09:10:49.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BurgerService.cs",
+              "DocumentMoniker": "C:\\Users\\FourdrainJ\\source\\repos\\MiamBurger_API\\MiamBurger_API\\Services\\BurgerService.cs",
+              "RelativeDocumentMoniker": "MiamBurger_API\\Services\\BurgerService.cs",
+              "ToolTip": "C:\\Users\\FourdrainJ\\source\\repos\\MiamBurger_API\\MiamBurger_API\\Services\\BurgerService.cs",
+              "RelativeToolTip": "MiamBurger_API\\Services\\BurgerService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAUwEYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T07:52:46.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FourdrainJ\\source\\repos\\MiamBurger_API\\MiamBurger_API\\Program.cs",
+              "RelativeDocumentMoniker": "MiamBurger_API\\Program.cs",
+              "ToolTip": "C:\\Users\\FourdrainJ\\source\\repos\\MiamBurger_API\\MiamBurger_API\\Program.cs",
+              "RelativeToolTip": "MiamBurger_API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T09:25:52.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250620090002_UpdateDBWIthUser.cs",
+              "DocumentMoniker": "C:\\Users\\FourdrainJ\\source\\repos\\MiamBurger_API\\MiamBurger_API\\Migrations\\20250620090002_UpdateDBWIthUser.cs",
+              "RelativeDocumentMoniker": "MiamBurger_API\\Migrations\\20250620090002_UpdateDBWIthUser.cs",
+              "ToolTip": "C:\\Users\\FourdrainJ\\source\\repos\\MiamBurger_API\\MiamBurger_API\\Migrations\\20250620090002_UpdateDBWIthUser.cs",
+              "RelativeToolTip": "MiamBurger_API\\Migrations\\20250620090002_UpdateDBWIthUser.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T09:00:26.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderLineController.cs",
+              "DocumentMoniker": "C:\\Users\\FourdrainJ\\source\\repos\\MiamBurger_API\\MiamBurger_API\\Controllers\\OrderLineController.cs",
+              "RelativeDocumentMoniker": "MiamBurger_API\\Controllers\\OrderLineController.cs",
+              "ToolTip": "C:\\Users\\FourdrainJ\\source\\repos\\MiamBurger_API\\MiamBurger_API\\Controllers\\OrderLineController.cs",
+              "RelativeToolTip": "MiamBurger_API\\Controllers\\OrderLineController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T06:57:37.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\FourdrainJ\\source\\repos\\MiamBurger_API\\MiamBurger_API\\Model\\User.cs",
+              "RelativeDocumentMoniker": "MiamBurger_API\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\FourdrainJ\\source\\repos\\MiamBurger_API\\MiamBurger_API\\Model\\User.cs",
+              "RelativeToolTip": "MiamBurger_API\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T08:48:34.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\FourdrainJ\\source\\repos\\MiamBurger_API\\MiamBurger_API\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "MiamBurger_API\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\FourdrainJ\\source\\repos\\MiamBurger_API\\MiamBurger_API\\Services\\OrderService.cs",
+              "RelativeToolTip": "MiamBurger_API\\Services\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T08:50:41.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\FourdrainJ\\source\\repos\\MiamBurger_API\\MiamBurger_API\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "MiamBurger_API\\Model\\Order.cs",
+              "ToolTip": "C:\\Users\\FourdrainJ\\source\\repos\\MiamBurger_API\\MiamBurger_API\\Model\\Order.cs",
+              "RelativeToolTip": "MiamBurger_API\\Model\\Order.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T07:54:37.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Burger.cs",
+              "DocumentMoniker": "C:\\Users\\FourdrainJ\\source\\repos\\MiamBurger_API\\MiamBurger_API\\Model\\Burger.cs",
+              "RelativeDocumentMoniker": "MiamBurger_API\\Model\\Burger.cs",
+              "ToolTip": "C:\\Users\\FourdrainJ\\source\\repos\\MiamBurger_API\\MiamBurger_API\\Model\\Burger.cs",
+              "RelativeToolTip": "MiamBurger_API\\Model\\Burger.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T07:52:22.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250605095100_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\FourdrainJ\\source\\repos\\MiamBurger_API\\MiamBurger_API\\Migrations\\20250605095100_InitialCreate.cs",
+              "RelativeDocumentMoniker": "MiamBurger_API\\Migrations\\20250605095100_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\FourdrainJ\\source\\repos\\MiamBurger_API\\MiamBurger_API\\Migrations\\20250605095100_InitialCreate.cs",
+              "RelativeToolTip": "MiamBurger_API\\Migrations\\20250605095100_InitialCreate.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAQwEkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T06:41:03.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderLine.cs",
+              "DocumentMoniker": "C:\\Users\\FourdrainJ\\source\\repos\\MiamBurger_API\\MiamBurger_API\\Model\\OrderLine.cs",
+              "RelativeDocumentMoniker": "MiamBurger_API\\Model\\OrderLine.cs",
+              "ToolTip": "C:\\Users\\FourdrainJ\\source\\repos\\MiamBurger_API\\MiamBurger_API\\Model\\OrderLine.cs",
+              "RelativeToolTip": "MiamBurger_API\\Model\\OrderLine.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwB4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T07:54:36.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderLineService.cs",
+              "DocumentMoniker": "C:\\Users\\FourdrainJ\\source\\repos\\MiamBurger_API\\MiamBurger_API\\Services\\OrderLineService.cs",
+              "RelativeDocumentMoniker": "MiamBurger_API\\Services\\OrderLineService.cs",
+              "ToolTip": "C:\\Users\\FourdrainJ\\source\\repos\\MiamBurger_API\\MiamBurger_API\\Services\\OrderLineService.cs",
+              "RelativeToolTip": "MiamBurger_API\\Services\\OrderLineService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T08:50:49.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MiamBurger_API.csproj",
+              "DocumentMoniker": "C:\\Users\\FourdrainJ\\source\\repos\\MiamBurger_API\\MiamBurger_API\\MiamBurger_API.csproj",
+              "RelativeDocumentMoniker": "MiamBurger_API\\MiamBurger_API.csproj",
+              "ToolTip": "C:\\Users\\FourdrainJ\\source\\repos\\MiamBurger_API\\MiamBurger_API\\MiamBurger_API.csproj",
+              "RelativeToolTip": "MiamBurger_API\\MiamBurger_API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-05T07:23:34.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MiamBurgerContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\FourdrainJ\\source\\repos\\MiamBurger_API\\MiamBurger_API\\Migrations\\MiamBurgerContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "MiamBurger_API\\Migrations\\MiamBurgerContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\FourdrainJ\\source\\repos\\MiamBurger_API\\MiamBurger_API\\Migrations\\MiamBurgerContextModelSnapshot.cs",
+              "RelativeToolTip": "MiamBurger_API\\Migrations\\MiamBurgerContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T09:27:54.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MiamBurger_API.http",
+              "DocumentMoniker": "C:\\Users\\FourdrainJ\\source\\repos\\MiamBurger_API\\MiamBurger_API\\MiamBurger_API.http",
+              "RelativeDocumentMoniker": "MiamBurger_API\\MiamBurger_API.http",
+              "ToolTip": "C:\\Users\\FourdrainJ\\source\\repos\\MiamBurger_API\\MiamBurger_API\\MiamBurger_API.http",
+              "RelativeToolTip": "MiamBurger_API\\MiamBurger_API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-06-20T07:27:30.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\FourdrainJ\\source\\repos\\MiamBurger_API\\MiamBurger_API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MiamBurger_API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\FourdrainJ\\source\\repos\\MiamBurger_API\\MiamBurger_API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MiamBurger_API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-06T07:31:13.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\FourdrainJ\\source\\repos\\MiamBurger_API\\MiamBurger_API\\appsettings.json",
+              "RelativeDocumentMoniker": "MiamBurger_API\\appsettings.json",
+              "ToolTip": "C:\\Users\\FourdrainJ\\source\\repos\\MiamBurger_API\\MiamBurger_API\\appsettings.json",
+              "RelativeToolTip": "MiamBurger_API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-06T07:31:07.581Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

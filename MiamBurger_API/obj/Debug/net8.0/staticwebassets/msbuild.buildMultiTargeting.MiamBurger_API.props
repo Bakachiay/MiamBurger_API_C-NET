@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MiamBurger_API.props" />
+</Project>
